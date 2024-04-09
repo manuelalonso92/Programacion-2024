@@ -1,0 +1,12 @@
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\bin\Debug\net8.0\listaElementos.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\bin\Debug\net8.0\listaElementos.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\bin\Debug\net8.0\listaElementos.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\listaElementos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\listaElementos.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\listaElementos.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\listaElementos.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\listaElementos.sourcelink.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\listaElementos.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\refint\listaElementos.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\listaElementos.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\listaElementos\obj\Debug\net8.0\ref\listaElementos.dll

@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF828EED-EE7A-45F4-A471-7330FDE068F8}|xUnitCumpleanios\\xUnitCumpleanios.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\clasesprog3\\xunitcumpleanios\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF828EED-EE7A-45F4-A471-7330FDE068F8}|xUnitCumpleanios\\xUnitCumpleanios.csproj|solutionrelative:xunitcumpleanios\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71FC5C36-8848-4563-B63F-8683E0E3E918}|xUnitListaElementos\\xUnitListaElementos.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\clasesprog3\\xunitlistaelementos\\xunitlistaelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FC5C36-8848-4563-B63F-8683E0E3E918}|xUnitListaElementos\\xUnitListaElementos.csproj|solutionrelative:xunitlistaelementos\\xunitlistaelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7168A323-A21B-4BC5-A986-335061A39498}|MiCumpleanios\\MiCumpleanios.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\clasesprog3\\micumpleanios\\nacimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7168A323-A21B-4BC5-A986-335061A39498}|MiCumpleanios\\MiCumpleanios.csproj|solutionrelative:micumpleanios\\nacimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B67F4746-996F-4B3F-8898-4C4175FAFFCF}|listaElementos\\listaElementos.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\clasesprog3\\listaelementos\\lista_generar_elementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67F4746-996F-4B3F-8898-4C4175FAFFCF}|listaElementos\\listaElementos.csproj|solutionrelative:listaelementos\\lista_generar_elementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BD7DFE-DDAF-434F-96C6-8F75EFFEAA62}|..\\xUnitCrearPersonas\\xUnitCrearPersonas.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\xunitcrearpersonas\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +21,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\xUnitCumpleanios\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "xUnitCumpleanios\\UnitTest1.cs",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\xUnitCumpleanios\\UnitTest1.cs",
-              "RelativeToolTip": "xUnitCumpleanios\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\xUnitCrearPersonas\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\xUnitCrearPersonas\\UnitTest1.cs",
+              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\xUnitCrearPersonas\\UnitTest1.cs",
+              "RelativeToolTip": "..\\xUnitCrearPersonas\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T14:12:39.989Z",
+              "WhenOpened": "2024-04-09T20:01:41.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Nacimiento.cs",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\MiCumpleanios\\Nacimiento.cs",
-              "RelativeDocumentMoniker": "MiCumpleanios\\Nacimiento.cs",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\MiCumpleanios\\Nacimiento.cs",
-              "RelativeToolTip": "MiCumpleanios\\Nacimiento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "Lista_Generar_Elementos.cs",
+              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\listaElementos\\Lista_Generar_Elementos.cs",
+              "RelativeDocumentMoniker": "listaElementos\\Lista_Generar_Elementos.cs",
+              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\listaElementos\\Lista_Generar_Elementos.cs",
+              "RelativeToolTip": "listaElementos\\Lista_Generar_Elementos.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T14:11:54.855Z"
+              "WhenOpened": "2024-04-09T18:51:29.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "xUnitListaElements.cs",
+              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\xUnitListaElementos\\xUnitListaElements.cs",
+              "RelativeDocumentMoniker": "xUnitListaElementos\\xUnitListaElements.cs",
+              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\ClasesProg3\\xUnitListaElementos\\xUnitListaElements.cs",
+              "RelativeToolTip": "xUnitListaElementos\\xUnitListaElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:51:09.016Z",
+              "EditorCaption": ""
             }
           ]
         }

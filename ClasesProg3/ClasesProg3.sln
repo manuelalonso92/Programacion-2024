@@ -5,11 +5,11 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios", "Ejercicios", "{1DAA014F-4BE4-47A7-B8B6-4AF2628C7BD6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase1", "Clase1", "{1186A326-1DD9-4A1A-9DBB-51E52500A767}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase1 12.3", "Clase1 12.3", "{1186A326-1DD9-4A1A-9DBB-51E52500A767}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase2", "Clase2", "{24AA60AC-F4F6-41DE-8999-855064480E82}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase2 19.3", "Clase2 19.3", "{24AA60AC-F4F6-41DE-8999-855064480E82}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase3", "Clase3", "{099D3B9D-4BEF-4369-9DB3-12F8DB2D410A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase3 26.3", "Clase3 26.3", "{099D3B9D-4BEF-4369-9DB3-12F8DB2D410A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CuentasBancarias", "..\CuentasBancarias\CuentasBancarias.csproj", "{71703AFB-8611-4D5B-AD1A-01201656FF38}"
 EndProject
@@ -21,17 +21,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CtasBancariasConsola", "Cta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CuentasBancariasConsolaApp", "..\CuentasBancariasConsolaApp\CuentasBancariasConsolaApp.csproj", "{DA81EE51-5603-4DC2-8812-52BA88AF4F25}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase4", "Clase4", "{DB918871-8D95-4E0C-B38D-0C05735499B6}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase5", "Clase5", "{35319765-7CB6-4C17-A3E3-A3E92DE487AA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crear100PersonasApp", "..\Crear100PersonasApp\Crear100PersonasApp.csproj", "{747055FA-93BD-4CC8-AB24-0599413ACDD5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitCrearPersonas", "..\xUnitCrearPersonas\xUnitCrearPersonas.csproj", "{D1BD7DFE-DDAF-434F-96C6-8F75EFFEAA62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCumpleanios", "MiCumpleanios\MiCumpleanios.csproj", "{7168A323-A21B-4BC5-A986-335061A39498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiCumpleanios", "MiCumpleanios\MiCumpleanios.csproj", "{7168A323-A21B-4BC5-A986-335061A39498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitCumpleanios", "xUnitCumpleanios\xUnitCumpleanios.csproj", "{CF828EED-EE7A-45F4-A471-7330FDE068F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitCumpleanios", "xUnitCumpleanios\xUnitCumpleanios.csproj", "{CF828EED-EE7A-45F4-A471-7330FDE068F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase4", "Clase4", "{1A20D82B-9D93-4865-84AF-6A1FA8B045A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitListaElementos", "xUnitListaElementos\xUnitListaElementos.csproj", "{71FC5C36-8848-4563-B63F-8683E0E3E918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listaElementos", "listaElementos\listaElementos.csproj", "{B67F4746-996F-4B3F-8898-4C4175FAFFCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +71,14 @@ Global
 		{CF828EED-EE7A-45F4-A471-7330FDE068F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF828EED-EE7A-45F4-A471-7330FDE068F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF828EED-EE7A-45F4-A471-7330FDE068F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FC5C36-8848-4563-B63F-8683E0E3E918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FC5C36-8848-4563-B63F-8683E0E3E918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FC5C36-8848-4563-B63F-8683E0E3E918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FC5C36-8848-4563-B63F-8683E0E3E918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67F4746-996F-4B3F-8898-4C4175FAFFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67F4746-996F-4B3F-8898-4C4175FAFFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67F4746-996F-4B3F-8898-4C4175FAFFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67F4746-996F-4B3F-8898-4C4175FAFFCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +93,8 @@ Global
 		{D1BD7DFE-DDAF-434F-96C6-8F75EFFEAA62} = {1186A326-1DD9-4A1A-9DBB-51E52500A767}
 		{7168A323-A21B-4BC5-A986-335061A39498} = {099D3B9D-4BEF-4369-9DB3-12F8DB2D410A}
 		{CF828EED-EE7A-45F4-A471-7330FDE068F8} = {099D3B9D-4BEF-4369-9DB3-12F8DB2D410A}
+		{71FC5C36-8848-4563-B63F-8683E0E3E918} = {1A20D82B-9D93-4865-84AF-6A1FA8B045A6}
+		{B67F4746-996F-4B3F-8898-4C4175FAFFCF} = {1A20D82B-9D93-4865-84AF-6A1FA8B045A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C068FC32-9A85-438E-8767-59E1320BC8D0}

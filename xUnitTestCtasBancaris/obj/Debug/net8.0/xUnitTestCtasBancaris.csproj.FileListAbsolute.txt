@@ -100,3 +100,4 @@ E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\xUnitTestCtasBancaris\obj\Debug
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\xUnitTestCtasBancaris\obj\Debug\net8.0\xUnitTestCtasBancaris.pdb
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\xUnitTestCtasBancaris\obj\Debug\net8.0\xUnitTestCtasBancaris.genruntimeconfig.cache
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\xUnitTestCtasBancaris\obj\Debug\net8.0\ref\xUnitTestCtasBancaris.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\xUnitTestCtasBancaris\obj\Debug\net8.0\xUnitTestCtasBancaris.sourcelink.json

@@ -9,3 +9,4 @@ E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\refint\CuentasBancarias.dll
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\CuentasBancarias.pdb
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\ref\CuentasBancarias.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\CuentasBancarias.sourcelink.json

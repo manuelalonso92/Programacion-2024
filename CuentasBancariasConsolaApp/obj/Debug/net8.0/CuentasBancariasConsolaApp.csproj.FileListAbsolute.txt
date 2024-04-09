@@ -12,3 +12,4 @@ E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.pdb
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.genruntimeconfig.cache
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\ref\CuentasBancariasConsolaApp.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.sourcelink.json
