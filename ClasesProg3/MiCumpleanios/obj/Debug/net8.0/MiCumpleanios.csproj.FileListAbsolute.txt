@@ -1,0 +1,12 @@
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\bin\Debug\net8.0\MiCumpleanios.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\bin\Debug\net8.0\MiCumpleanios.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\bin\Debug\net8.0\MiCumpleanios.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\MiCumpleanios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\MiCumpleanios.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\MiCumpleanios.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\MiCumpleanios.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\MiCumpleanios.sourcelink.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\MiCumpleanios.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\refint\MiCumpleanios.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\MiCumpleanios.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\MiCumpleanios\obj\Debug\net8.0\ref\MiCumpleanios.dll

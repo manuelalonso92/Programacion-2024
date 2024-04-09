@@ -1,0 +1,15 @@
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\bin\Debug\net8.0\Crear100PersonasApp.exe
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\bin\Debug\net8.0\Crear100PersonasApp.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\bin\Debug\net8.0\Crear100PersonasApp.runtimeconfig.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\bin\Debug\net8.0\Crear100PersonasApp.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\bin\Debug\net8.0\Crear100PersonasApp.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\Crear100PersonasApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\Crear100PersonasApp.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\Crear100PersonasApp.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\Crear100PersonasApp.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\Crear100PersonasApp.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\refint\Crear100PersonasApp.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\Crear100PersonasApp.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\Crear100PersonasApp.genruntimeconfig.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\ref\Crear100PersonasApp.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Crear100PersonasApp\obj\Debug\net8.0\Crear100PersonasApp.sourcelink.json

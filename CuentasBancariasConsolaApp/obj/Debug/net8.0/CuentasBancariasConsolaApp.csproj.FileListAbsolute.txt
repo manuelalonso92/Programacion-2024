@@ -1,0 +1,14 @@
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\bin\Debug\net8.0\CuentasBancariasConsolaApp.exe
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\bin\Debug\net8.0\CuentasBancariasConsolaApp.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\bin\Debug\net8.0\CuentasBancariasConsolaApp.runtimeconfig.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\bin\Debug\net8.0\CuentasBancariasConsolaApp.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\bin\Debug\net8.0\CuentasBancariasConsolaApp.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\refint\CuentasBancariasConsolaApp.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\CuentasBancariasConsolaApp.genruntimeconfig.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancariasConsolaApp\obj\Debug\net8.0\ref\CuentasBancariasConsolaApp.dll

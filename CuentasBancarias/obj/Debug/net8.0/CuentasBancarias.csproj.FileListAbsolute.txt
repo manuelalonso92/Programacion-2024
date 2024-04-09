@@ -1,0 +1,11 @@
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\bin\Debug\net8.0\CuentasBancarias.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\bin\Debug\net8.0\CuentasBancarias.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\bin\Debug\net8.0\CuentasBancarias.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\CuentasBancarias.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\CuentasBancarias.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\CuentasBancarias.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\CuentasBancarias.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\CuentasBancarias.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\refint\CuentasBancarias.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\CuentasBancarias.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\CuentasBancarias\obj\Debug\net8.0\ref\CuentasBancarias.dll

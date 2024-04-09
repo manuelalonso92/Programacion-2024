@@ -1,0 +1,11 @@
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\bin\Debug\net8.0\ClasesProg3.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\bin\Debug\net8.0\ClasesProg3.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\bin\Debug\net8.0\ClasesProg3.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\obj\Debug\net8.0\ClasesProg3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\obj\Debug\net8.0\ClasesProg3.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\obj\Debug\net8.0\ClasesProg3.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\obj\Debug\net8.0\ClasesProg3.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\obj\Debug\net8.0\ClasesProg3.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\obj\Debug\net8.0\refint\ClasesProg3.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\obj\Debug\net8.0\ClasesProg3.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\ClasesProg3\obj\Debug\net8.0\ref\ClasesProg3.dll
