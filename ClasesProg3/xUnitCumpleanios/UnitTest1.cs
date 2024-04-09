@@ -12,6 +12,7 @@ namespace xUnitCumpleanios
 
             var miNacimiento = new Nacimiento();
             DateTime dt = new DateTime(1992, 11,21);
+            string hola = "Probando commit de git";
 
             //Act
            
