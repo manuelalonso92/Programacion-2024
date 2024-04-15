@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("xUnitCumpleanios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c586eefd1bf502880e5f91f47a6cc00c0917bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbc6d2ee8cea753797fd1719d7b40fa96ad9385c")]
 [assembly: System.Reflection.AssemblyProductAttribute("xUnitCumpleanios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("xUnitCumpleanios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

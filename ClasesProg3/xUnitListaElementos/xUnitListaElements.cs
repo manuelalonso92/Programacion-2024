@@ -16,9 +16,23 @@ namespace xUnitListaElementos
 
 
             //Assert
-            var query = from j in act where j.Universidad.Contains("UTN") select j.Nombre;
+            var query = from j in act where j.Universidad.Contains("UTN") select j.Universidad;
+
+            var query2 = from j in act
+                         where j.Universidad == "UTN" && j.Edad <= 20
+                         orderby j.Nombre
+
+                         select new { j.Nombre, j.Edad };
+
+            var query3 = from j in act
+                         where j.Universidad == "UTN" && j.Edad <= 20
+                         orderby j.Nombre
+                         select new { j.Nombre, j.Edad };
+
+
+            var count = query3.Count();
+            Assert.NotEmpty(query3);
             
-            Assert.Equal("UTN", query.ToString());
         }
     }
 }
