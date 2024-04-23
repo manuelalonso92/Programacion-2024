@@ -9,3 +9,15 @@ E:\Carpetas\Documentos\UTN TUP\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Ent
 E:\Carpetas\Documentos\UTN TUP\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\refint\Programacion3.Ejercicios.Entidades.dll
 E:\Carpetas\Documentos\UTN TUP\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\Programacion3.Ejercicios.Entidades.pdb
 E:\Carpetas\Documentos\UTN TUP\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\ref\Programacion3.Ejercicios.Entidades.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\bin\Debug\net8.0\Programacion3.Ejercicios.Entidades.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\bin\Debug\net8.0\Programacion3.Ejercicios.Entidades.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\bin\Debug\net8.0\Programacion3.Ejercicios.Entidades.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\Programacion3.Ejercicios.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\Programacion3.Ejercicios.Entidades.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\Programacion3.Ejercicios.Entidades.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\Programacion3.Ejercicios.Entidades.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\Programacion3.Ejercicios.Entidades.sourcelink.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\Programacion3.Ejercicios.Entidades.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\refint\Programacion3.Ejercicios.Entidades.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\Programacion3.Ejercicios.Entidades.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\Prog3-ParcialEjemplo\Programacion3.Ejercicios.Entidades\obj\Debug\net8.0\ref\Programacion3.Ejercicios.Entidades.dll

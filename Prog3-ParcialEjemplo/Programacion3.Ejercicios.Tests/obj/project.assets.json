@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Tests\\Programacion3.Ejercicios.Tests.csproj",
+      "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Tests\\Programacion3.Ejercicios.Tests.csproj",
       "projectName": "Programacion3.Ejercicios.Tests",
-      "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Tests\\Programacion3.Ejercicios.Tests.csproj",
+      "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Tests\\Programacion3.Ejercicios.Tests.csproj",
       "packagesPath": "C:\\Users\\manu9\\.nuget\\packages\\",
-      "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Tests\\obj\\",
+      "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manu9\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5550,8 +5550,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Carpetas\\Documentos\\UTN TUP\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Entidades\\Programacion3.Ejercicios.Entidades.csproj": {
-              "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Entidades\\Programacion3.Ejercicios.Entidades.csproj"
+            "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Entidades\\Programacion3.Ejercicios.Entidades.csproj": {
+              "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Entidades\\Programacion3.Ejercicios.Entidades.csproj"
             }
           }
         }

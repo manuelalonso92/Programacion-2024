@@ -10,6 +10,6 @@ namespace Programacion3.Ejercicios.Entidades
 
 		}
 
-        
+        public int Goles { get; set; }
     }
 }

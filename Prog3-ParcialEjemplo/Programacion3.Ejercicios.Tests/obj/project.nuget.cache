@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "amfUsA4yEPNRY2VL6phdu/6oEMRVDgbIfAVDfATTadANiPZoTRCwJL5DRpTGK+ERLdTxsiqlrneLIiCuBi+T3w==",
+  "dgSpecHash": "ngEA30z4VQibbVWEqXgTZ8KltA23P3ipC3tVJahWDGfDUzeouE4buQuOFTzfAYF74S1u009VjSqQ0e79Sj5Tcg==",
   "success": true,
-  "projectFilePath": "E:\\Carpetas\\Documentos\\UTN TUP\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Tests\\Programacion3.Ejercicios.Tests.csproj",
+  "projectFilePath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\Prog3-ParcialEjemplo\\Programacion3.Ejercicios.Tests\\Programacion3.Ejercicios.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manu9\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\manu9\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

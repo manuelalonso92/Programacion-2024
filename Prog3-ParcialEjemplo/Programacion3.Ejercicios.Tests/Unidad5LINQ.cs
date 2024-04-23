@@ -117,7 +117,9 @@ namespace Programacion3.Ejercicios.Tests
             var letras = new List<string> { "z", "a", "d", "c" };
 
             //Utilizar LINQ para ordenar la lista alfabéticamente
-            var letrasOrdenadas = letras.OrderBy(x => x).ToList();
+            var letrasOrdenadas = from x in letras
+                                  orderby x
+                                  select x;
 
             
             Assert.Equal(new List<string> { "a", "c", "d", "z" }, letrasOrdenadas); 
